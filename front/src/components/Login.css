@@ -1,0 +1,15 @@
+/* .contentGLob{
+    display: flex;
+    width: 100%;
+} */
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+input {
+    width: 20%;
+    margin: 5px;
+}

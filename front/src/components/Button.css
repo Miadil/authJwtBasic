@@ -1,0 +1,12 @@
+.Button {
+    background-color: goldenrod;
+    border: 0.2rem;
+    font-family: monospace;
+    color: white;
+    margin: 5px;
+}
+
+.Button.link {
+    background-color: transparent;
+    color: goldenrod;
+}
